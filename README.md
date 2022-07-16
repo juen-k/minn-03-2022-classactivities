@@ -1,0 +1,1 @@
+# minn-03-2022-classactivities
