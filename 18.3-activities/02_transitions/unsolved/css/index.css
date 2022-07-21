@@ -19,11 +19,13 @@
   width: 150px;
   text-align: center;
   height: 50px;
+  transition: 0.3s
   /* Add the css property transition here! */
 
 }
 /* active state */
-.hoverMe:hover {
+.hoverMe:hover { 
+  background-color: blue;
   /* Add your hover state css here. */
 
 }
